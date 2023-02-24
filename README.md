@@ -1,3 +1,8 @@
+DM Phoenix OOF#5501 on discord for help with the stub
+![StubPicture](https://user-images.githubusercontent.com/100095326/221075950-791cf3dd-e045-42c3-834a-9ca8b5806214.png)
+
+
+https://github.com/Phoenix11112/Frp-Stub
 Click Code then click download zip, then just follow the steps.
 
 Open "FrpStub.exe" then go to the Builder's tab, then click all the settings you want
